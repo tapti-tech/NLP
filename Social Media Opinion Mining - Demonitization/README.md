@@ -41,6 +41,7 @@ The process we will follow is summarised below:
 
 Project Pipeline
 ---
+![Project Pipeline](https://github.com/tapti-tech/NLP/blob/master/Social%20Media%20Opinion%20Mining%20-%20Demonitization/1.jpg)
 
 The main step in the project pipeline are the - steps for getting the tweets, cleaning them, computing the sentiment scores, using the word embeddings etc.
 
