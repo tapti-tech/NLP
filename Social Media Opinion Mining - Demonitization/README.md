@@ -58,6 +58,7 @@ Clean the tweets: Remove special symbols such as RT (header for denoting retweet
 *	Using word2vec library (Skip gram model), get word vector for each word in  corpus .
 *	Compute tweet embeddings by averaging the word embeddings and appending the respective sentiment scores to them
  
+ ![Project Pipeline](https://github.com/tapti-tech/NLP/blob/master/Social%20Media%20Opinion%20Mining%20-%20Demonitization/2.jpg)
 
 **4.	Compute sentiment score of each tweet**
 
@@ -67,6 +68,7 @@ Add Sentiment to each word embedding i.e., Calculate the sentiment score of each
 *	Sentiment is added as Expression at last dimension to end of each tweet vector.
 *	Each tweet vector is now combination of Abstraction and Expression - tweet embeddings
  
+ ![Project Pipeline](https://github.com/tapti-tech/NLP/blob/master/Social%20Media%20Opinion%20Mining%20-%20Demonitization/3.jpg)
 	
 **5.	Cluster Tweet Embeddings using K-Means Clustering algorithm**
 
