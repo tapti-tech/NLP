@@ -1,8 +1,9 @@
-Demonetization Twitter Analysis using K-means
-***
-                                    
+Social Media Opinion Mining - Demonetization Twitter Analysis using K-means
+---
+
 Problem Statement 
 ---
+
 
 To build an application to model social cognition patterns, i.e. how people form opinions about socially relevant issues (such as demonetisation) on social media platforms (such as Twitter).
 
